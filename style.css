@@ -1,0 +1,956 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body {
+    background: #fff;
+
+
+}
+header, section, .container {
+    width: 1170px;
+    margin: 0 auto;
+    position: relative;
+    clear: both; /*floating of element*/
+}
+header ul {
+    float: left;
+    list-style: none;
+    margin-right: 60px;
+    line-height: 22px;
+    margin-top: 9px;
+}
+
+
+
+
+header::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+
+header ul li+li {
+    margin-top: -6px;
+}
+
+header ul li:first-child {
+    color: #DC4138;
+    margin-left: 2px;
+}
+
+header ul li i {
+    margin-right: 9px;
+    color: black;
+}
+
+
+
+header div.cart {
+    float: left;
+    font-size: 19px;
+    margin-top: 5px;
+}
+
+header div.cart-mobile {
+    display: none;
+}
+
+header div.cart i {
+    vertical-align: -1px;
+    margin-right: 8px;
+}
+
+header div.cart span {
+    color: #DC4138;
+    vertical-align: -1px;
+}
+
+header div.bars {
+    float: left;
+    display: none;
+    font-size: 30px;
+}
+
+
+img {
+    max-width: 100%;
+}
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+    margin: 30px 0 15px 0;
+    font-size: 26px;
+    letter-spacing: 4.5px
+}
+button {
+    padding: 7px 15px;
+    color: #fff;
+    background: forestgreen;
+    display: inline-block;
+    border: none;
+    cursor: pointer; /*cursosr type*/
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.80em;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+button:hover {
+    opacity: 0.8;
+    background: #dc4138;
+}
+input {
+    display: inline-block;
+    padding: 7px 15px;
+    vertical-align: top;
+}
+input:focus {
+    outline: 0;
+}
+header {
+    padding: 30px 0 0;
+    margin-bottom: 0px;
+
+}
+header>div {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: left;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+header>div:first-of-type {
+    text-align: left;
+    padding-left: 0px;
+    width: 33%;
+}
+header>div:nth-of-type(2) {
+    width: 32%
+}
+
+header>div:nth-of-type(3) {
+    width: 12%;
+    margin-left: 35px;
+    font-size: 0.8em;
+}
+header>div:last-of-type {
+    text-align: right;
+    width: 15%;
+    font-size: 1.2em;
+}
+header>div input {
+    width: 100%;
+    border: 1px #cccccc solid;
+    height: 50px;
+    transition: 0.3s all;
+    background: forestgreen;
+    border-radius: 10px;
+}
+header>div input:focus {
+    border: 1px solid #262626;
+    transition: 0.3s all;
+}
+header>div>form {
+    position: relative;
+}
+header>div>form>button {
+    position: absolute;
+    right: 0;
+    font-size: 1em;
+    padding: 0;
+    background: orangered;
+    transition: 0.2s;
+    color: #fff;
+    font-weight: 300;
+    width: 55px;
+    height: 100%;
+    top: 0;
+    border-radius: 10px;
+}
+
+header>div:last-of-type a {
+    font-size: 0.85em;
+    margin: 0 5px;
+    text-decoration: none;
+}
+header>div>div {
+    display: inline-block;
+}
+header>div>div a:hover {
+    color: #dc4138;
+}
+header>div>div a i.fa {
+    display: inline-block;
+    margin-right: 5px;
+    font-size: 1.5em;
+    height: 50px;
+    width: 50px;
+    color: #fff;
+    background: #333;
+    text-align: center;
+    line-height: 50px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+header>div>div a i.fa:hover {
+    background: #dc4138;
+}
+header>div>div a i.fa-shopping-bag {
+    background-color: #dc4138;
+    border: 1px #dc4138 solid;
+    position: relative;
+}
+header>div>div a i.fa-shopping-bag:hover {
+    background: #fff;
+    border: 1px #dc4138 solid;
+    color: #dc4138;
+}
+header>div input::placeholder {
+    color: #fff;
+}
+/**************************************media***************************/
+@media (max-width: 1440px) {
+    header {
+        max-width: 900px;
+    }
+
+    header img {
+        margin-right: 70px;
+    }
+
+    header ul {
+        margin-right: 40px;
+    }
+
+    header form input {
+        width: 250px;
+    }
+
+}
+
+/*****************************************************************/
+@media (max-width: 1024px) {
+    header {
+        max-width: 600px;
+    }
+
+    header div.bars {
+        display: block;
+        margin-bottom: -50px;
+        font-size: 20px;
+        color:darkgreen;
+    }
+
+    header ul li p {
+        display: none;  /*obserowane*/
+
+    }
+
+    header img {
+        float: left;
+        margin-left: 30px;
+        margin-right: 40px;
+        margin-top: -7px;
+    }
+
+    header form {
+        display: none;
+    }
+
+    header ul li {
+        display: inline-block;
+        font-size: 35px;
+        vertical-align: 20px;
+
+
+    }
+
+    header ul li:first-child {
+        display: none;
+
+    }
+
+    header div.cart {
+        display: none;
+
+    }
+
+    header div.cart-mobile {
+        display: inline-block;
+        font-size: 35px;
+        margin-left: -50px;
+        vertical-align: -12px;
+        color: red;
+    }
+}
+/*********************************************/
+@media (max-width: 601px) {
+    header {
+        max-width: 358px;
+    }
+    header img {
+        float: left;
+        margin-left: 30px;
+        margin-right: 30px;
+        margin-top: -4px;
+        height: 36px;
+        width: 150px;
+    }
+    header div.bars {
+        display: block;
+        margin-bottom: -50px;
+        font-size: 20px;
+        color:darkgreen;
+    }
+
+    header ul li { /*eye*/
+        display: inline-block;
+        font-size: 35px;
+        vertical-align: 10px;
+        margin-right: 20px;
+
+    }
+    header div.cart-mobile {
+        display: inline-block;
+        font-size: 35px;
+        margin-left: -50px;
+        vertical-align: -15px;
+        color: red;
+    }
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/************************** NAV *****************************/
+
+nav {
+    text-align: center;
+    margin-top: 15px;
+    position: relative;
+    z-index: 1;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    font-weight: 600;
+    z-index: 3;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+nav a {
+    display: block;
+    text-decoration: none;
+    position: relative;
+}
+nav li>a {
+    transition: 0.1s; /* po najechaniu na pole z menu*/
+}
+nav li:hover>a {
+    color: white;
+    background-color: darkgreen;
+    transition: 0.2s;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+nav:after {
+    content: '';
+    position: absolute;
+    display: block;
+    z-index: -1;
+    left: -100%;
+
+    bottom: 0;
+    height: 2px;
+    width: 205%;
+}
+nav>ul>li>a:not(:only-child):after {
+    margin-left: 40px; /margines menu
+}
+/*
+.banner_background img {
+    position: absolute;
+    top: 15%;
+    left: 32%;
+}
+
+.banner3 .banner_background img
+{ left: 38% }
+.banner_background span {
+    display: block;
+    position: absolute;
+    bottom: 15%;
+}
+
+.cms_text {
+    text-align: center;
+    font-size: 13px;
+    font-family: 'Open Sans';
+    color: #888888;
+    padding-top: 20px;
+    border-top: 1px #f1f1f1 solid;
+    text-decoration: underline;
+
+}
+
+.banner_background span {
+    width: 100%;
+    text-align: center;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-family: 'Roboto';
+    color: #fff;
+}
+
+.banner_background span {
+    display: block;
+}
+*/
+nav>ul>li:hover>a:before {
+    background: blue;
+    bottom: 0;
+    content: "";
+    display: block;
+    height: 1px;
+    left: 0;
+    position: absolute;
+    width: 100%;
+}
+}
+
+
+nav>ul>li>a img{
+    display: inline-block;   /* rozmieszczenie menu*/
+    vertical-align: middle;
+}
+nav>ul>li>a {
+    text-transform: uppercase;
+    color: #262626;
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px 11px;
+    font-size: 0.93em;
+}
+
+/*
+nav>ul>li:last-child>a i {
+    margin-right: 5px;
+} */
+
+
+
+nav>ul>li:hover>ul {
+    display: block;
+}  /*p najechaniu na menu to sie rozwia gdy jest block*/
+
+
+nav ul ul {
+    display: none;
+}   /* karty są sxhowane, dopiero po najechaniu sie pokazują */
+
+/*
+nav ul li>ul {
+    position: absolute;
+    left: 0;
+    top: 100%;
+}*/
+
+
+nav>ul>li {
+    display: inline-block;
+} /* menu jest w poziomie a nie w pionie */
+
+
+nav>ul>li>ul {
+    position: absolute;
+    left: 0;
+    top: 100%;
+    right: 0;
+    background: palegreen;
+    box-shadow: 0 5px 20px darkgreen; /*obramowane boxa menu/
+    text-align: right; /*napis po prawej stronie boxu*/
+    padding: 0 30px 30px 30px;
+}
+
+
+nav>ul>li>ul a {
+    color: #262626; /* kolor tekstu */
+    font-size: 0.92em;
+}
+nav>ul>li>ul>li {
+    display: inline-block;
+    width: 25%;
+    vertical-align: top;
+    text-transform: uppercase;
+}
+nav>ul>li>ul>li ul {
+    display: block;
+    vertical-align: top;
+    position: static;
+    box-shadow: none;
+    margin-top: 20px;
+}
+
+
+
+nav>ul>li>ul>li ul li {
+    padding-right: 30px;
+}
+nav>ul>li>ul>li ul li a {
+    display: block;
+    width: 100%;
+    text-transform: none;
+    padding: 7px 15px;
+
+}
+/*****************************************************/
+@media (max-width: 1680px) {
+    nav {
+        max-width: 1450px;
+        text-align: center;
+        margin-top: 15px;
+        position: relative;
+        z-index: 1;
+        margin-bottom: 10px;
+        text-transform: uppercase;
+        font-weight: 600;
+        z-index: 3;
+    }
+    nav ul {
+        list-style: none;
+        padding: 0;
+        margin-left: 80px;
+        font-size: 30px;
+    }
+
+
+
+    @media (max-width: 1455px) {
+        nav {
+            max-width: 1200px;
+            position: relative;
+        }
+
+        nav {
+            text-align: center;
+            margin-top: 12px;
+            position: relative;
+            z-index: 1;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            font-weight: 100;
+            z-index: 3;
+        }
+
+
+        nav ul {
+            padding: 0;
+            margin-left: 80px;
+            font-size: 18px;
+        }
+
+
+        nav>ul>li>ul a {
+            color: #262626; /* kolor tekstu */
+            font-size: 18px;
+        }
+/***************/
+
+        @media (max-width: 1250px) {
+            nav {
+                max-width: 800px;
+                position: relative;
+            }
+
+            nav ul {
+                padding: 0;
+                margin-left: 80px;
+                font-size: 14px;
+            }
+
+
+            nav > ul > li > ul a {
+                color: #262626; /* kolor tekstu */
+                font-size: 15px;
+            }
+
+            nav li:hover > a {
+                color: white;
+                background-color: darkgreen;
+                transition: 0.4s;
+                border-top-left-radius: 5px;
+                border-top-right-radius: 5px;
+
+
+            }
+
+            nav > ul > li > ul > li ul li a {
+                display: block;
+                width: 100px;
+                text-transform: none;
+                padding: 7px 15px;
+
+            }
+            /*******************/
+            @media (max-width: 850px) {
+                nav {
+                    max-width: 600px;
+                    position: relative;
+                }
+                nav ul {
+                    padding: 0;
+                    margin-left: 50px;
+                    font-size: 12px;
+                }
+                nav > ul > li > ul a {
+
+                    font-size: 12px;
+                }
+
+                nav > ul > li > ul > li ul li a {
+                    display: block;
+                    width: 100px;
+                    text-transform: none;
+                    padding: 7px 15px;
+
+        }
+                /**********/
+                @media (max-width: 620px) {
+                    nav {
+                        max-width: 320px;
+                        position: relative;
+                    }
+
+
+
+                    nav ul {
+                        padding: 0;
+                        margin-left: 50px;
+                        font-size: 12px;
+                    }
+
+                    nav > ul > li > ul a {
+
+                        font-size: 12px;
+                    }
+
+                    nav > ul > li > ul > li ul li a {
+                        display: block;
+                        width: 100px;
+                        text-transform: none;
+                        padding: 7px 15px;
+
+                    }
+                }
+
+
+
+
+
+
+/*********************************************banner********************/
+
+.slider img{
+    height: 600px;
+    width: 1500px;
+}
+
+
+div.slider{
+
+    width: 100px;
+    margin: 0 auto;
+    position: relative;
+    clear: both;
+}
+
+.slick-prev:before{
+    color: red;
+    content: "<";
+    color:black;
+    font-size:15px;
+    font-family: Calibri;
+
+}
+.slick-next:before{
+    color: red;
+    content: ">";
+    color:black;
+    font-size:15px;
+    font-family: Calibri;
+
+
+}
+div .logo2{
+
+}
+            }
+                @media (max-width: 1680px) {
+                    .slider {
+                        max-width: 1450px;
+
+                    }
+                    .slider img{
+                        height: 500px;
+                        width: 1300px;
+                    }
+                }
+
+
+
+                    @media (max-width: 1455px) {
+                        .slider {
+                            max-width: 1200px;
+                            position: relative;
+
+                        }
+
+                        .slider img {
+                            height: 350px;
+                            width: 1100px;
+
+                        }
+                    }
+
+
+
+
+
+                        @media (max-width: 1250px) {
+                           .slider {
+                                max-width: 800px;
+                               position: relative;
+
+                            }
+                            .slider img {
+                                height: 250px;
+                                width: 900px;
+
+                            }
+                            }
+
+                            @media (max-width: 850px) {
+                                .slider {
+                                    max-width: 600px;
+                                    position: relative;
+
+                                }
+                                .slider img {
+                                    height: 100px;
+                                    width: 700px;
+                                }
+                                /**********/
+                                @media (max-width: 620px) {
+                                    .slider {
+                                        max-width: 320px;
+                                        position: relative;
+
+                                    }
+
+                                    .slider img {
+                                        height: 90px;
+                                        width: 600px;
+
+
+                                    }
+                                }
+
+
+
+
+
+
+
+
+
+
+
+
+                                /************************************nowosci **************/
+
+.nowosci{
+    width: 1170px;
+    margin:60px auto 0;
+
+}
+
+div.nowosci img{
+    height:200px;
+
+
+}
+
+p.nowosc{
+
+    font-size:30px;
+    font-weight: bold;
+    text-align:center;
+
+}
+
+
+.kuweta{
+    position:relative;
+    left:5px;
+}
+
+
+.cena{
+    color:red;
+    font-weight:bold;
+
+}
+
+
+.legowiskoZ{
+    position:relative;
+    left:20px;
+}
+.opis{
+    font-size:15px;
+}
+/************************************************************/
+                                @media (max-width: 1680px) {
+                                    .nowosci {
+                                        max-width: 1450px;
+
+
+                                    }
+
+                                    div.nowosci img{
+                                        height:150px;
+
+                                    }
+                                    p.nowosc{
+
+                                        font-size:25px;
+                                        font-weight: bold;
+                                        text-align:center;
+
+                                    }
+
+
+                                    .kuweta{
+                                        position:relative;
+                                        left:5px;
+                                    }
+
+
+                                    .cena{
+                                        color:red;
+                                        font-weight:bold;
+
+                                    }
+
+
+                                    .legowiskoZ{
+                                        position:relative;
+                                        left:20px;
+                                    }
+                                    .opis{
+                                        font-size:12px;
+
+
+                                }
+
+
+
+                                @media (max-width: 1455px) {
+                                    .nowosci {
+                                        max-width: 1200px;
+                                        position: relative;
+
+                                    }
+
+                                    div.nowosci img{
+                                        height:120px;
+
+
+                                    }
+                                    p.nowosc{
+
+                                        font-size:25px;
+                                        font-weight: bold;
+                                        text-align:center;
+
+                                    }
+                                }
+
+
+                                @media (max-width: 1250px) {
+                                    .nowosci {
+                                        max-width: 800px;
+                                        position: relative;
+
+                                    }
+                                    div.nowosci img{
+                                        height:90px;
+
+                                    }
+                                }
+
+                                @media (max-width: 850px) {
+                                    .nowosci {
+                                        max-width: 600px;
+                                        position: relative;
+
+                                    }
+
+                                    div.nowosci img{
+                                        height:70px;
+
+                                    }
+                                    }
+
+                                    p.nowosc {
+
+                                        font-size: 20px;
+                                        font-weight: bold;
+                                        text-align: center;
+
+                                    }
+
+
+
+                                    /**********/
+                                    @media (max-width: 620px) {
+                                        .nowosci {
+                                            max-width: 320px;
+                                            position: relative;
+
+                                        }
+
+                                        div.nowosci img {
+                                            height: 40px;
+
+                                        }
+
+
+                                        .opis {
+                                            font-size: 8px;
+
+                                        }
+                                    }
+
+
+
+
+

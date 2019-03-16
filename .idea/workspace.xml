@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="930872e1-7892-4609-ad9f-e66b620d5474" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/CatShop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/357b2dde49a38f223c8ccb0f76bb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sklep.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/f-10437-jaka-karma-dla-kota-jest-najlepsza.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/300_300_productGfx_82fedca7d4a2c9eda755a42de0c76567.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/357b2dde49a38f223c8ccb0f76bb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/72125_72046_kh_xxl_fg_8948_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/950bf68c0a73969b6e878db7b9b2a6f35564e6bc6d9a18e47b5f965ec53f0185" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/a6a0caed12063c77b1a8fb2bd07290dcede97354_baner_promocja120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/d94d69ed4a2083ab619b5ad45956.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/f-10437-jaka-karma-dla-kota-jest-najlepsza.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/images.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kot-wyglad3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kuweta-dla-kota-curver-kremowa-w-iext50438628.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/legowisko-dla-psa-kota-jasnozielone-48x42-cm-w-iext48786639.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/miska.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/my-shop-logo-1525377973.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/nutrilove_karma_dla_kotazwirek_gratis_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/obt_banner_naturest.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slick/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slick/config.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slick/fonts/slick.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slick/fonts/slick.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slick/fonts/slick.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slick/fonts/slick.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slick/slick-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slick/slick-theme.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slick/slick-theme.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slick/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slick/slick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slick/slick.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slick/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slick/slick.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sklep.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="254" lean-forward="true" selection-start-line="254" selection-end-line="254" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14875">
+              <caret line="875" column="58" selection-start-line="875" selection-start-column="58" selection-end-line="875" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Element.create</find>
+      <find>media</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../WEBCAMP 2018/zadanie_3_gah/index.html" />
+        <option value="$PROJECT_DIR$/Sklep.html" />
+        <option value="$PROJECT_DIR$/Sklep.html" />
+        <option value="$PROJECT_DIR$/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="215" />
+    <option name="y" value="200" />
+    <option name="width" value="1655" />
+    <option name="height" value="835" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CatShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CatShop" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/mingw64/bin/git.exe" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="930872e1-7892-4609-ad9f-e66b620d5474" name="Default Changelist" comment="" />
+      <created>1551536247174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551536247174</updated>
+      <workItem from="1551536249935" duration="1820000" />
+      <workItem from="1551636137412" duration="4374000" />
+      <workItem from="1551721115082" duration="966000" />
+      <workItem from="1552068610743" duration="400000" />
+      <workItem from="1552134362720" duration="14246000" />
+      <workItem from="1552165017127" duration="979000" />
+      <workItem from="1552230159251" duration="11553000" />
+      <workItem from="1552585252437" duration="5141000" />
+      <workItem from="1552751190007" duration="1992000" />
+      <workItem from="1552759506489" duration="642000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="42113000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16442953" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.30028328" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="3" weight="0.3295302" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Sklep.html</url>
+          <line>358</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../WEBCAMP 2018/zadanie_3_gah/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WEBCAMP 2018/zadanie_2_abc/nav.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WEBCAMP 2018/zadanie1/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="145" column="21" lean-forward="true" selection-start-line="145" selection-start-column="21" selection-end-line="145" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WEBCAMP 2018/zadanie_1/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1177">
+          <caret line="172" column="26" lean-forward="true" selection-start-line="172" selection-start-column="26" selection-end-line="172" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WEBCAMP 2018/zadanie_1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slick/slick.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="2342" column="43" selection-start-line="2342" selection-start-column="43" selection-end-line="2342" selection-end-column="43" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slick/slick.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slick/slick.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WEBCAMP 2018/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WEBCAMP 2018/zadanie_2_abc/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2311" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WEBCAMP 2018/zadanie_3_gah/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="443" column="9" lean-forward="true" selection-start-line="443" selection-start-column="9" selection-end-line="443" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WEBCAMP 2018/zadanie_4_xtw/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WEBCAMP 2018/komplet/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WEBCAMP 2018/komplet/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WEBCAMP 2018/zadanie_5_zqw/calosc.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WEBCAMP 2018/komplet/calos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WEBCAMP 2018/Nowy folder/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WEBCAMP 2018/Nowy folder/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15526">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WEBCAMP 2018/zadanie_5_zqw/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="827" column="10" selection-start-line="827" selection-start-column="5" selection-end-line="827" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sklep.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="254" lean-forward="true" selection-start-line="254" selection-end-line="254" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14875">
+          <caret line="875" column="58" selection-start-line="875" selection-start-column="58" selection-end-line="875" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
