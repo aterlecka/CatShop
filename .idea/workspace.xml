@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="930872e1-7892-4609-ad9f-e66b620d5474" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="930872e1-7892-4609-ad9f-e66b620d5474" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Sklep.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1054">
-              <caret line="254" selection-start-line="254" selection-end-line="254" />
+            <state relative-caret-position="255">
+              <caret line="178" column="13" selection-start-line="178" selection-start-column="13" selection-end-line="178" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -50,8 +48,8 @@
       <list>
         <option value="$PROJECT_DIR$/../WEBCAMP 2018/zadanie_3_gah/index.html" />
         <option value="$PROJECT_DIR$/Sklep.html" />
-        <option value="$PROJECT_DIR$/Sklep.html" />
         <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/Sklep.html" />
       </list>
     </option>
   </component>
@@ -134,11 +132,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42672000" />
+    <option name="totallyTimeSpent" value="42876000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16442953" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -198,7 +195,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/Sklep.html</url>
-          <line>358</line>
+          <line>359</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
@@ -309,8 +306,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Sklep.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="254" selection-start-line="254" selection-end-line="254" />
+        <state relative-caret-position="255">
+          <caret line="178" column="13" selection-start-line="178" selection-start-column="13" selection-end-line="178" selection-end-column="13" />
         </state>
       </provider>
     </entry>
