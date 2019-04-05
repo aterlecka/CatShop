@@ -86,7 +86,7 @@ h1 {
     font-weight: 600;
     margin: 30px 0 15px 0;
     font-size: 26px;
-    letter-spacing: 4.5px
+    letter-spacing: 4.5px;
 }
 button {
     padding: 7px 15px;
@@ -94,7 +94,7 @@ button {
     background: forestgreen;
     display: inline-block;
     border: none;
-    cursor: pointer; /*cursosr type*/
+    cursor: pointer; /*caret type*/
     font-family: 'Open Sans', sans-serif;
     font-size: 0.80em;
     border-radius: 5px;
@@ -114,7 +114,7 @@ input:focus {
 }
 header {
     padding: 30px 0 0;
-    margin-bottom: 0px;
+    margin-bottom: 0;
 
 }
 header>div {
@@ -126,7 +126,7 @@ header>div {
 }
 header>div:first-of-type {
     text-align: left;
-    padding-left: 0px;
+    padding-left: 0;
     width: 33%;
 }
 header>div:nth-of-type(2) {
@@ -345,7 +345,6 @@ nav {
     text-align: center;
     margin-top: 15px;
     position: relative;
-    z-index: 1;
     margin-bottom: 10px;
     text-transform: uppercase;
     font-weight: 600;
@@ -434,7 +433,7 @@ nav>ul>li:hover>a:before {
     position: absolute;
     width: 100%;
 }
-}
+
 
 
 nav>ul>li>a img{
@@ -528,7 +527,6 @@ nav>ul>li>ul>li ul li a {
         text-align: center;
         margin-top: 15px;
         position: relative;
-        z-index: 1;
         margin-bottom: 10px;
         text-transform: uppercase;
         font-weight: 600;
@@ -553,7 +551,6 @@ nav>ul>li>ul>li ul li a {
             text-align: center;
             margin-top: 12px;
             position: relative;
-            z-index: 1;
             margin-bottom: 10px;
             text-transform: uppercase;
             font-weight: 100;
@@ -569,7 +566,7 @@ nav>ul>li>ul>li ul li a {
 
 
         nav>ul>li>ul a {
-            color: #262626; /* kolor tekstu */
+            color: #262626; /* color text */
             font-size: 18px;
         }
 /***************/
@@ -683,7 +680,6 @@ div.slider{
 }
 
 .slick-prev:before{
-    color: red;
     content: "<";
     color:black;
     font-size:15px;
@@ -691,7 +687,6 @@ div.slider{
 
 }
 .slick-next:before{
-    color: red;
     content: ">";
     color:black;
     font-size:15px;
@@ -948,7 +943,7 @@ p.nowosc{
                                             font-size: 8px;
 
                                         }
-                                    }
+                                    }}}}}}
 
 
 
