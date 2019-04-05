@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="930872e1-7892-4609-ad9f-e66b620d5474" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/357b2dde49a38f223c8ccb0f76bb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sklep.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sklep.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/f-10437-jaka-karma-dla-kota-jest-najlepsza.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,8 +18,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sklep.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3026">
-              <caret line="178" selection-start-line="178" selection-end-line="178" />
+            <state relative-caret-position="209">
+              <caret line="298" column="27" selection-start-line="298" selection-start-column="20" selection-end-line="298" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -31,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="948" lean-forward="true" selection-start-line="948" selection-end-line="948" />
+            <state relative-caret-position="2312">
+              <caret line="745" column="72" selection-start-line="745" selection-start-column="72" selection-end-line="745" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -135,7 +131,7 @@
       <workItem from="1553549260681" duration="565000" />
       <workItem from="1553789466923" duration="342000" />
       <workItem from="1553858899739" duration="596000" />
-      <workItem from="1554496237105" duration="557000" />
+      <workItem from="1554496237105" duration="1293000" />
     </task>
     <task id="LOCAL-00001" summary="First initial commit,&#10;description: this is shop for pets">
       <created>1552760358682</created>
@@ -148,13 +144,33 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46179000" />
+    <option name="totallyTimeSpent" value="46915000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14899328" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.14899328" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.2266289" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="3" weight="0.3295302" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.14899328" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -172,7 +188,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Key Promoter X" order="3" weight="0.3295302" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -343,15 +359,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Sklep.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3026">
-          <caret line="178" selection-start-line="178" selection-end-line="178" />
+        <state relative-caret-position="209">
+          <caret line="298" column="27" selection-start-line="298" selection-start-column="20" selection-end-line="298" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="948" lean-forward="true" selection-start-line="948" selection-end-line="948" />
+        <state relative-caret-position="2312">
+          <caret line="745" column="72" selection-start-line="745" selection-start-column="72" selection-end-line="745" selection-end-column="72" />
         </state>
       </provider>
     </entry>

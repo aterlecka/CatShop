@@ -247,7 +247,7 @@ header>div input::placeholder {
     }
 
     header ul li p {
-        display: none;  /*obserowane*/
+        display: none;
 
     }
 
@@ -361,7 +361,7 @@ nav a {
     position: relative;
 }
 nav li>a {
-    transition: 0.1s; /* po najechaniu na pole z menu*/
+    transition: 0.1s;
 }
 nav li:hover>a {
     color: white;
@@ -382,32 +382,7 @@ nav:after {
     width: 205%;
 }
 nav>ul>li>a:not(:only-child):after {
-    margin-left: 40px; /margines menu
-}
-/*
-.banner_background img {
-    position: absolute;
-    top: 15%;
-    left: 32%;
-}
-
-.banner3 .banner_background img
-{ left: 38% }
-.banner_background span {
-    display: block;
-    position: absolute;
-    bottom: 15%;
-}
-
-.cms_text {
-    text-align: center;
-    font-size: 13px;
-    font-family: 'Open Sans';
-    color: #888888;
-    padding-top: 20px;
-    border-top: 1px #f1f1f1 solid;
-    text-decoration: underline;
-
+    margin-left: 40px; /*margin menu*/
 }
 
 .banner_background span {
@@ -422,7 +397,6 @@ nav>ul>li>a:not(:only-child):after {
 .banner_background span {
     display: block;
 }
-*/
 nav>ul>li:hover>a:before {
     background: blue;
     bottom: 0;
@@ -437,7 +411,7 @@ nav>ul>li:hover>a:before {
 
 
 nav>ul>li>a img{
-    display: inline-block;   /* rozmieszczenie menu*/
+    display: inline-block;
     vertical-align: middle;
 }
 nav>ul>li>a {
@@ -449,33 +423,23 @@ nav>ul>li>a {
     font-size: 0.93em;
 }
 
-/*
-nav>ul>li:last-child>a i {
-    margin-right: 5px;
-} */
 
 
 
 nav>ul>li:hover>ul {
     display: block;
-}  /*p najechaniu na menu to sie rozwia gdy jest block*/
+}
 
 
 nav ul ul {
     display: none;
-}   /* karty są sxhowane, dopiero po najechaniu sie pokazują */
+}
 
-/*
-nav ul li>ul {
-    position: absolute;
-    left: 0;
-    top: 100%;
-}*/
 
 
 nav>ul>li {
     display: inline-block;
-} /* menu jest w poziomie a nie w pionie */
+}
 
 
 nav>ul>li>ul {
@@ -484,14 +448,14 @@ nav>ul>li>ul {
     top: 100%;
     right: 0;
     background: palegreen;
-    box-shadow: 0 5px 20px darkgreen; /*obramowane boxa menu/
-    text-align: right; /*napis po prawej stronie boxu*/
+    box-shadow: 0 5px 20px darkgreen;
+    text-align: right;
     padding: 0 30px 30px 30px;
 }
 
 
 nav>ul>li>ul a {
-    color: #262626; /* kolor tekstu */
+    color: #262626;
     font-size: 0.92em;
 }
 nav>ul>li>ul>li {
@@ -585,7 +549,7 @@ nav>ul>li>ul>li ul li a {
 
 
             nav > ul > li > ul a {
-                color: #262626; /* kolor tekstu */
+                color: #262626; /* color text */
                 font-size: 15px;
             }
 
@@ -779,7 +743,7 @@ div .logo2{
 
 
 
-                                /************************************nowosci **************/
+                                /***********************************news **************/
 
 .nowosci{
     width: 1170px;
